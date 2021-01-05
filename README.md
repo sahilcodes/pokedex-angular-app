@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hybridshivam.tech/pokedex/"><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
+  <a href="https://hybridshivam.com/pokedex/"><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
   
   ![Website](https://img.shields.io/badge/Website-Up-green)
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellowgreen)
@@ -15,7 +15,11 @@
    A PWA (Progressive Web App) Built using Angular 9 with Service Workers.
    Works Offline and can be installed.<br>
    Built using the PokéAPI.
+  
+   <p align="center">Website : <a href="https://hybridshivam.com/pokedex/">hybridshivam.com/pokedex</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
 </p>
+
+<p align="center">Leave a :star: if you liked it, also share :link: with those who may be interested.<p>
  
 # Screenshots
 <p align="center"><img src="https://user-images.githubusercontent.com/28728749/84378747-4d005180-ac02-11ea-802e-705c80cbbccc.png" width="300"> <img src="https://user-images.githubusercontent.com/28728749/84378755-51c50580-ac02-11ea-9e3d-b25b138642ca.png" width="300"> <img src="https://user-images.githubusercontent.com/28728749/84378759-54bff600-ac02-11ea-922c-a8fce6a35479.png" width="300">
@@ -26,7 +30,7 @@
  <img src="https://user-images.githubusercontent.com/28728749/84378797-60132180-ac02-11ea-9426-fea8e163924e.png" width="300">
  <img src="https://user-images.githubusercontent.com/28728749/84378808-630e1200-ac02-11ea-8d86-32def594982a.png" width="300">
  <img src="https://user-images.githubusercontent.com/28728749/84378817-673a2f80-ac02-11ea-9e10-30a8c7a5acd4.png" width="300"></p>
- <p align="center"><img src="https://user-images.githubusercontent.com/28728749/84378870-791bd280-ac02-11ea-95a6-054cb916e994.png" width="150"> <img src="https://user-images.githubusercontent.com/28728749/84378876-7b7e2c80-ac02-11ea-933b-8309279b0e66.png" width="150">
+ <p align="center"><img src="https://user-images.githubusercontent.com/28728749/85826421-2f0a2380-b7a2-11ea-90ea-236ff398fd53.png" width="150"> <img src="https://user-images.githubusercontent.com/28728749/84378876-7b7e2c80-ac02-11ea-933b-8309279b0e66.png" width="150">
  <img src="https://user-images.githubusercontent.com/28728749/84378883-7d47f000-ac02-11ea-95c3-4ef30f05647a.png" width="150">
  <img src="https://user-images.githubusercontent.com/28728749/84378889-80db7700-ac02-11ea-9a18-a287bd99f13d.png" width="150">
  </p>
@@ -40,9 +44,9 @@
  * Moves.
  * Evolution Chains.
  * Training, Breeding, Typing and Forms.
- * Flavor Text according to the selected the Games.
- * *Works Offline.*
- * *Can be installed.*
+ * Flavor Text according to the selected games.
+ * *Works Offline.* :heavy_check_mark:
+ * *Can be installed.* :heavy_check_mark:
 
 # Getting Started:
 
@@ -73,7 +77,7 @@
       1. Run the server using `http-server -c-1 dist\pokedex`
 
 **Upgrading Angular CLI version**
-* Run the below commands - only use "sudo" on Mac/ Linux.
+* Run the below commands - use "sudo" only on Mac/ Linux.
 1. `sudo npm uninstall -g angular-cli @angular/cli`
 1. `npm cache clean --force`
 1. `sudo npm install -g @angular/cli`
@@ -83,3 +87,4 @@ Thanks to [PokéAPI.co](https://github.com/PokeAPI/pokeapi). & [Veekun](https://
 
 # Copyright Notice
 This is an unofficial, non-commercial, fan-made app and is NOT affiliated, endorsed or supported by Nintendo, Game Freak and The Pokémon Company in any way. Many images used in this app are copyrighted and are supported under fair use. Pokémon and Pokémon character names are trademarks of Nintendo. No copyright infringement intended.
+
